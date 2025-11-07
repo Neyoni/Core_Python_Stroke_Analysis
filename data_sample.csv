@@ -1,0 +1,100 @@
+ID,Age,Gender,Hypertension,Heart Disease,Ever Married,Work Type,Residence Type,Average Glucose Level,BMI,Smoking Status,Physical Activity,Dietary Habits,Alcohol Consumption,Chronic Stress,Sleep Hours,Family History of Stroke,Education Level,Income Level,Stroke Risk Score,Region,Stroke Occurrence
+1,78,Female,0,0,1,Private,Rural,267.3,36.2,Formerly smoked,Sedentary,Non-Vegetarian,0,0,11,0,Tertiary,Middle,88,South,0
+2,60,Female,0,0,0,Private,Rural,207.24,19.8,Never smoked,Light,Vegetarian,0,0,9,0,Secondary,High,56,East,0
+3,69,Male,0,0,0,Private,Urban,161.3,34.5,Never smoked,Sedentary,Mixed,1,0,3,0,Secondary,High,63,North,1
+4,43,Male,0,0,1,Never Worked,Urban,247.49,48.8,Never smoked,Active,Mixed,0,1,4,0,Tertiary,Middle,93,South,0
+5,30,Female,0,0,1,Government,Urban,116.57,31.3,Formerly smoked,Light,Mixed,0,1,9,0,Secondary,High,99,West,0
+6,53,Male,1,0,1,Government,Urban,220.62,49.9,Never smoked,Active,Non-Vegetarian,0,1,7,0,No education,Low,56,North,0
+7,83,Female,0,0,0,Children,Urban,193.32,46.8,Never smoked,Sedentary,Vegetarian,0,0,5,0,Secondary,High,87,South,0
+8,43,Female,0,0,0,Never Worked,Urban,198.59,23.3,Never smoked,Light,Mixed,0,0,10,0,Primary,Low,5,North,0
+9,62,Male,1,0,0,Children,Rural,117.81,16.5,Unknown,Sedentary,Non-Vegetarian,1,0,8,1,Secondary,Low,98,East,0
+10,35,Male,0,0,0,Government,Urban,289.09,37,Never smoked,Light,Vegetarian,0,0,8,0,Tertiary,Middle,94,East,0
+11,83,Female,0,0,1,Private,Urban,150.86,34.3,Never smoked,Moderate,Non-Vegetarian,0,0,4,0,Primary,Middle,31,South,0
+12,71,Male,0,0,1,Private,Urban,254.9,49.5,Never smoked,Light,Non-Vegetarian,0,0,6,1,Secondary,High,30,South,0
+13,79,Male,0,0,0,Self-employed,Rural,164.44,11.4,Never smoked,Sedentary,Non-Vegetarian,0,0,10,0,Secondary,Low,72,South,0
+14,50,Male,0,0,1,Self-employed,Rural,142.49,15.2,Never smoked,Sedentary,Non-Vegetarian,0,0,4,0,Primary,Middle,67,North,1
+15,25,Male,0,0,1,Government,Rural,218.1,36.5,Formerly smoked,Sedentary,Non-Vegetarian,0,0,11,0,Secondary,Low,19,West,0
+16,81,Female,0,0,0,Private,Rural,245.06,10.9,Never smoked,Light,Vegetarian,0,0,4,0,Primary,Low,8,West,0
+17,80,Male,0,1,1,Private,Urban,266.21,18.9,Formerly smoked,Active,Vegetarian,0,0,6,0,Primary,Middle,53,East,0
+18,45,Female,0,0,1,Self-employed,Rural,221.45,34.5,Formerly smoked,Light,Non-Vegetarian,0,0,10,0,Secondary,Low,63,North,0
+19,47,Male,0,0,1,Private,Rural,131.46,24,Never smoked,Sedentary,Vegetarian,0,1,4,0,No education,Low,100,West,0
+20,81,Male,0,0,1,Private,Urban,275.52,26.6,Never smoked,Active,Vegetarian,0,0,9,0,Primary,Low,10,East,0
+21,69,Male,0,0,1,Private,Rural,81.77,12.6,Never smoked,Sedentary,Vegetarian,0,0,11,0,Tertiary,Low,95,West,0
+22,48,Male,0,0,0,Private,Urban,150.87,24.1,Never smoked,Light,Non-Vegetarian,0,0,3,0,Primary,Middle,31,South,0
+23,22,Female,0,0,0,Private,Urban,244.7,32.8,Formerly smoked,Sedentary,Non-Vegetarian,0,0,6,0,Secondary,Low,65,South,0
+24,70,Female,0,0,0,Private,Urban,214.01,17.2,Formerly smoked,Sedentary,Mixed,0,1,12,0,Secondary,Low,16,West,0
+25,64,Male,0,0,0,Private,Urban,157.5,48.9,Never smoked,Sedentary,Vegetarian,0,0,8,0,Secondary,Low,77,North,0
+26,22,Male,0,0,0,Private,Urban,288.63,45.3,Never smoked,Light,Non-Vegetarian,0,1,3,0,Primary,Low,77,South,0
+27,56,Male,1,0,0,Self-employed,Urban,177.89,32.5,Formerly smoked,Sedentary,Non-Vegetarian,0,0,3,0,Tertiary,High,18,West,0
+28,75,Male,0,0,0,Government,Urban,169.66,10,Never smoked,Light,Vegetarian,1,0,11,0,Tertiary,Middle,88,South,0
+29,77,Male,0,0,0,Self-employed,Urban,84.55,18.2,Formerly smoked,Moderate,Non-Vegetarian,0,1,12,0,Secondary,Low,21,East,0
+30,24,Other,0,0,1,Private,Urban,132.46,10.6,Never smoked,Sedentary,Mixed,0,0,3,0,Secondary,Middle,44,North,0
+31,57,Male,0,0,0,Self-employed,Rural,171.52,44.3,Never smoked,Sedentary,Non-Vegetarian,0,1,11,0,Secondary,Middle,100,South,0
+32,86,Female,1,0,1,Private,Urban,233.23,34.7,Never smoked,Light,Non-Vegetarian,0,0,12,0,Secondary,Low,28,West,0
+33,38,Female,0,0,0,Government,Rural,79.48,30.2,Never smoked,Sedentary,Non-Vegetarian,0,0,9,0,No education,High,3,South,0
+34,54,Female,0,0,0,Self-employed,Urban,247.96,44.8,Never smoked,Light,Vegetarian,0,0,9,0,Tertiary,Middle,78,South,0
+35,62,Male,0,0,1,Private,Rural,176.44,27.3,Never smoked,Sedentary,Vegetarian,0,0,8,0,No education,Low,45,East,0
+36,33,Female,0,0,0,Children,Rural,197.62,20.6,Formerly smoked,Light,Non-Vegetarian,0,1,8,1,Primary,High,89,East,0
+37,33,Male,1,0,0,Self-employed,Rural,144.25,38,Never smoked,Sedentary,Non-Vegetarian,0,0,5,1,Secondary,Low,14,West,0
+38,52,Male,0,0,1,Private,Rural,233.95,45.1,Never smoked,Moderate,Non-Vegetarian,0,0,7,0,Secondary,Low,12,East,0
+39,25,Female,1,0,0,Never Worked,Urban,230.23,33.1,Never smoked,Light,Mixed,1,0,4,0,Tertiary,High,100,North,0
+40,86,Male,1,0,0,Never Worked,Urban,297.68,39.1,Formerly smoked,Light,Vegetarian,0,0,11,0,Secondary,High,30,West,1
+41,80,Female,0,0,0,Private,Urban,271.51,42.7,Never smoked,Moderate,Mixed,0,0,3,0,Primary,Middle,59,South,0
+42,60,Male,0,0,1,Self-employed,Urban,194.61,49.8,Never smoked,Active,Vegetarian,1,0,7,0,Tertiary,Middle,77,North,1
+43,89,Female,0,0,0,Children,Urban,171.62,25.6,Never smoked,Sedentary,Vegetarian,0,0,9,0,Primary,Middle,13,North,0
+44,48,Female,0,0,1,Private,Urban,163.35,43.5,Never smoked,Active,Mixed,0,0,6,0,Secondary,Middle,96,East,0
+45,69,Male,0,0,1,Self-employed,Urban,154.42,12.3,Never smoked,Light,Vegetarian,0,1,8,0,Secondary,Middle,65,West,0
+46,22,Male,0,0,0,Self-employed,Urban,103.53,15.7,Formerly smoked,Sedentary,Non-Vegetarian,0,0,8,0,Secondary,Middle,77,West,0
+47,85,Female,0,0,1,Private,Rural,253.42,28.7,Smokes,Light,Non-Vegetarian,0,1,8,0,Secondary,Low,23,North,0
+48,79,Female,0,0,1,Children,Urban,179.25,47.9,Never smoked,Moderate,Vegetarian,0,0,9,0,Primary,High,73,South,0
+49,19,Male,0,0,0,Self-employed,Rural,246.68,31.6,Never smoked,Light,Mixed,1,0,3,0,Tertiary,Low,83,West,0
+50,34,Female,0,0,1,Private,Urban,126.11,49.4,Never smoked,Sedentary,Vegetarian,0,0,11,0,Secondary,Low,70,East,0
+51,22,Male,0,0,0,Private,Rural,193.23,35.5,Never smoked,Sedentary,Mixed,0,0,10,1,Secondary,Middle,81,South,0
+52,40,Male,0,0,0,Children,Rural,185.77,47.1,Formerly smoked,Sedentary,Non-Vegetarian,0,0,12,0,Primary,Low,45,West,1
+53,57,Male,0,0,0,Children,Urban,118.59,14.6,Smokes,Sedentary,Vegetarian,0,0,4,0,Primary,High,6,West,0
+54,36,Male,0,0,0,Self-employed,Rural,178.93,39.2,Unknown,Light,Non-Vegetarian,1,0,11,0,Secondary,Middle,75,North,1
+55,76,Male,0,0,0,Private,Urban,141.83,15.9,Unknown,Active,Vegetarian,0,1,9,0,Secondary,Low,94,North,0
+56,44,Male,0,0,0,Private,Rural,227.73,26.2,Never smoked,Active,Non-Vegetarian,0,0,6,0,Secondary,Middle,28,South,0
+57,88,Female,1,0,0,Private,Rural,281.32,14,Smokes,Sedentary,Vegetarian,0,0,9,0,Primary,Low,46,South,0
+58,59,Male,0,0,0,Never Worked,Rural,249.06,10,Formerly smoked,Moderate,Non-Vegetarian,0,1,10,0,Primary,Low,15,South,0
+59,36,Female,0,0,0,Government,Urban,156.4,27.4,Never smoked,Active,Vegetarian,0,0,8,0,No education,Low,48,East,0
+60,86,Female,0,1,1,Private,Urban,97.48,13.5,Smokes,Moderate,Mixed,0,0,6,1,Secondary,Low,4,East,0
+61,84,Female,0,0,0,Government,Rural,83.36,27.4,Smokes,Light,Non-Vegetarian,0,0,11,0,Primary,Low,56,East,0
+62,22,Female,0,0,0,Private,Urban,212.27,23.8,Unknown,Light,Vegetarian,0,1,3,0,Secondary,Low,96,North,0
+63,87,Male,1,0,0,Never Worked,Rural,117.23,30.2,Never smoked,Moderate,Non-Vegetarian,0,0,9,0,Secondary,Middle,36,North,0
+64,82,Male,1,1,0,Children,Urban,258.04,24.6,Smokes,Sedentary,Mixed,1,0,11,0,Tertiary,Low,64,North,0
+65,85,Male,0,0,1,Private,Rural,222.47,44.4,Never smoked,Active,Non-Vegetarian,0,0,6,1,Tertiary,High,63,East,0
+66,82,Other,0,0,0,Children,Urban,208.2,29.8,Never smoked,Moderate,Non-Vegetarian,1,0,6,0,Primary,Low,60,West,0
+67,46,Male,0,0,1,Self-employed,Rural,131.99,21.3,Never smoked,Light,Mixed,0,0,6,0,Tertiary,Middle,76,West,0
+68,72,Female,0,0,0,Children,Rural,141.66,15.2,Smokes,Light,Non-Vegetarian,0,0,9,0,Primary,Low,63,South,1
+69,69,Male,0,0,0,Private,Rural,103.97,42.9,Formerly smoked,Sedentary,Vegetarian,0,0,10,0,Primary,High,100,East,0
+70,70,Male,0,0,0,Self-employed,Urban,168.13,17.4,Formerly smoked,Light,Vegetarian,0,0,7,0,Tertiary,Low,37,South,0
+71,84,Male,0,0,0,Government,Rural,257.68,28.2,Never smoked,Light,Vegetarian,0,0,7,0,Primary,High,12,West,0
+72,60,Female,0,0,0,Self-employed,Rural,114.33,33.8,Never smoked,Sedentary,Non-Vegetarian,0,0,11,1,Tertiary,High,88,East,0
+73,84,Male,0,0,0,Private,Urban,273.94,17.1,Never smoked,Moderate,Non-Vegetarian,1,0,6,0,Secondary,Low,57,East,0
+74,66,Male,1,0,1,Private,Urban,165.18,36,Unknown,Sedentary,Non-Vegetarian,0,1,10,0,Secondary,Low,57,South,0
+75,57,Other,0,0,0,Private,Urban,145.4,41.1,Never smoked,Active,Non-Vegetarian,0,0,7,0,Secondary,Middle,37,North,0
+76,41,Female,0,0,0,Children,Urban,194.67,18,Formerly smoked,Sedentary,Non-Vegetarian,0,0,12,0,Tertiary,Low,9,East,0
+77,61,Female,0,0,1,Private,Rural,189.58,14.9,Never smoked,Sedentary,Non-Vegetarian,0,0,10,0,Secondary,Middle,98,West,0
+78,25,Male,0,1,0,Private,Urban,115.07,37.3,Unknown,Sedentary,Vegetarian,0,0,3,0,Secondary,Middle,95,North,0
+79,81,Male,0,0,0,Private,Rural,205.56,44.9,Formerly smoked,Light,Vegetarian,0,1,10,1,Primary,Middle,68,North,0
+80,20,Female,1,0,1,Never Worked,Urban,228.5,47.4,Smokes,Light,Non-Vegetarian,0,0,12,0,Secondary,High,22,West,0
+81,76,Female,0,0,0,Private,Urban,214.83,23.8,Never smoked,Light,Mixed,0,0,6,0,Secondary,Low,8,West,0
+82,42,Female,0,0,0,Private,Rural,219.12,40.8,Never smoked,Light,Non-Vegetarian,0,1,3,0,No education,High,85,North,0
+83,81,Female,0,1,1,Government,Rural,247.61,26.5,Formerly smoked,Sedentary,Non-Vegetarian,0,1,7,0,Secondary,Middle,84,South,0
+84,30,Male,0,0,0,Private,Rural,174.34,30.1,Never smoked,Sedentary,Vegetarian,0,0,4,1,Tertiary,Low,28,North,0
+85,42,Male,0,0,1,Private,Urban,85.08,40,Never smoked,Sedentary,Mixed,0,0,6,0,Primary,High,27,South,0
+86,76,Female,0,0,1,Government,Rural,117.9,46.7,Never smoked,Light,Vegetarian,0,0,7,0,Tertiary,Low,67,West,0
+87,57,Female,0,0,1,Private,Urban,263.4,39.4,Never smoked,Light,Vegetarian,0,1,11,0,Secondary,High,60,East,0
+88,78,Female,0,0,0,Never Worked,Urban,136.86,37.7,Never smoked,Moderate,Vegetarian,0,0,10,0,Secondary,Low,47,East,0
+89,68,Male,0,0,0,Government,Rural,283.63,44.5,Never smoked,Sedentary,Vegetarian,0,0,7,1,Secondary,High,49,East,0
+90,62,Male,1,0,0,Children,Rural,232.11,49.2,Never smoked,Moderate,Non-Vegetarian,0,0,8,0,Tertiary,Low,17,North,0
+91,88,Male,0,0,1,Private,Rural,219.95,28.8,Never smoked,Sedentary,Mixed,1,0,4,0,No education,High,52,West,0
+92,52,Male,0,0,0,Never Worked,Urban,124.71,36.9,Never smoked,Light,Non-Vegetarian,0,0,11,1,Secondary,Low,73,East,0
+93,35,Female,0,0,0,Children,Urban,235.66,27.6,Never smoked,Sedentary,Non-Vegetarian,1,1,10,0,Primary,Low,74,South,0
+94,38,Female,1,0,0,Private,Rural,170.96,47.4,Never smoked,Sedentary,Vegetarian,1,0,5,0,Secondary,Low,8,North,0
+95,33,Female,0,0,0,Never Worked,Rural,102.53,44.9,Never smoked,Light,Non-Vegetarian,0,0,9,0,Primary,Low,73,West,0
+96,65,Male,0,0,0,Private,Urban,172.53,28.1,Unknown,Sedentary,Vegetarian,0,0,12,0,Primary,Low,73,East,0
+97,85,Male,0,0,0,Self-employed,Urban,134.19,12,Never smoked,Moderate,Non-Vegetarian,0,1,7,0,Secondary,High,85,East,0
+98,70,Male,0,0,1,Private,Urban,132.59,35.5,Formerly smoked,Moderate,Mixed,1,0,3,0,Primary,High,73,North,0
+99,38,Male,0,0,0,Children,Urban,247.71,14.5,Never smoked,Light,Non-Vegetarian,0,1,11,0,Secondary,High,72,South,0

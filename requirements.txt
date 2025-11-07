@@ -1,0 +1,15 @@
+# Stroke Risk Analysis System
+# No external dependencies required - Pure Python implementation
+# Python 3.8+ required
+
+# This project was implemented without using any external libraries
+# as per assignment requirements. All functionality is built using
+# Python's standard library only.
+
+# The following were explicitly NOT used (as per requirements):
+# pandas
+# numpy  
+# csv (module)
+# Any other high-level data processing libraries
+
+# Only Python's built-in functions and file I/O were utilized.
